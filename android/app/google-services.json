@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "683132104931",
+    "project_id": "crypto-20a4f",
+    "storage_bucket": "crypto-20a4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683132104931:android:2605607665303da2f615d6",
+        "android_client_info": {
+          "package_name": "com.example.crypto_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683132104931-kvp1mj1q62nsv9ebego23lh81ifgs89t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crypto_wallet",
+            "certificate_hash": "9a31e94fdd4b457d2d21fda3f0702b27a16a06b9"
+          }
+        },
+        {
+          "client_id": "683132104931-ua7afrca1vlajkol7g600du2l0i2i5cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfZHF3r-0zw3mQ8mamX3jIVVUe2qiphAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683132104931-ua7afrca1vlajkol7g600du2l0i2i5cp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "683132104931-igh3du2ti48f0q3rqv7cj271omri368l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cryptoWallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
